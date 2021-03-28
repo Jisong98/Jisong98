@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi My name is Jisong, I'm a student in Computer Science 👩‍💻
 
 <!--
 **Jisong98/Jisong98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
